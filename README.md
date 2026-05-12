@@ -50,7 +50,7 @@ The system allows users to switch languages instantly during live conversations 
 This portfolio website is deployed using GitHub Pages.
 
 Live Website:
-https://greeshmagonapa.github.io/FUTURE_Intern_01/
+https://greeshmagonapa.github.io/FUTURE_FS_01/
 
 ## GitHub Repository
 
